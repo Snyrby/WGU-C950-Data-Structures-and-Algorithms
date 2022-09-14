@@ -135,3 +135,15 @@ K.  Justify the data structure you identified in part D by doing the following:
 L.  Acknowledge sources, using in-text citations and references, for content that is quoted, paraphrased, or summarized.
 
 M.  Demonstrate professional communication in the content and presentation of your submission.
+
+## Attrributes
+
+A. program created using pycharm 2022.2
+
+B. Python 3.1.0 was used
+
+C. Directions:
+
+1. Follow prompts on console
+
+2. User types numbers based on which input
