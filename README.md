@@ -1,0 +1,2 @@
+# WGU-C950-Data-Structures-and-Algorithms
+ This program reads data off 2 CSV files. One of the CSV contains a list of 40 packages with a unique id and associated details. The other CSV contains a lot of different addresses and distances to other addresses in a grid format. The program reads in all package data and stores it as objects in a hash table. From there, each package is stored on 3 lists associated with 3 delivery trucks. From there, the program calculates the shortest distance for each truck
