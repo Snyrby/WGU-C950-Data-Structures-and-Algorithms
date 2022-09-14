@@ -136,7 +136,7 @@ L.  Acknowledge sources, using in-text citations and references, for content tha
 
 M.  Demonstrate professional communication in the content and presentation of your submission.
 
-## Attrributes
+## Attributes
 
 A. program created using pycharm 2022.2
 
